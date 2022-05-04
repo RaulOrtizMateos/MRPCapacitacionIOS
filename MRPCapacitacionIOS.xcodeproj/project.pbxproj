@@ -15,6 +15,7 @@
 		8F40DAAB2822B49D00041638 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F40DAA92822B49D00041638 /* LaunchScreen.storyboard */; };
 		8F40DAB528230E7100041638 /* ListaQuizzesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F40DAB428230E7100041638 /* ListaQuizzesViewController.swift */; };
 		8FEB3D8828231BDC002AD94C /* QuizzDescriptionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FEB3D8728231BDC002AD94C /* QuizzDescriptionViewController.swift */; };
+		8FEB3D8A28233C65002AD94C /* PreguntasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FEB3D8928233C65002AD94C /* PreguntasViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		8F40DAAC2822B49D00041638 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F40DAB428230E7100041638 /* ListaQuizzesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListaQuizzesViewController.swift; sourceTree = "<group>"; };
 		8FEB3D8728231BDC002AD94C /* QuizzDescriptionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizzDescriptionViewController.swift; sourceTree = "<group>"; };
+		8FEB3D8928233C65002AD94C /* PreguntasViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PreguntasViewController.swift; path = "../../MRP-Capacitacion_iOS/MRPCapacitacionIOS/PreguntasViewController.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				8F40DAAC2822B49D00041638 /* Info.plist */,
 				8F40DAB428230E7100041638 /* ListaQuizzesViewController.swift */,
 				8FEB3D8728231BDC002AD94C /* QuizzDescriptionViewController.swift */,
+				8FEB3D8928233C65002AD94C /* PreguntasViewController.swift */,
 			);
 			path = MRPCapacitacionIOS;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8FEB3D8A28233C65002AD94C /* PreguntasViewController.swift in Sources */,
 				8F40DAB528230E7100041638 /* ListaQuizzesViewController.swift in Sources */,
 				8F40DAA32822B49B00041638 /* ViewController.swift in Sources */,
 				8F40DA9F2822B49B00041638 /* AppDelegate.swift in Sources */,
